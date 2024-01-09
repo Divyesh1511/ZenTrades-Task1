@@ -1,0 +1,21 @@
+h1, h3{
+ text-align: center;
+}
+
+table {
+    width: 35%;
+    margin: auto;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid black;
+    background-color: #d2dff7;
+}
+
+th {
+    background-color: #246cfd;
+    color: white;
+}
